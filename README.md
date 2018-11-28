@@ -7,3 +7,4 @@ Using this you cans:
 -> Volume Up(down) (using slider)
 -> Play/Pause
 -> Fastly rewind video  (using slider)
+-> 0,5x, 1x and 2x fast modes
