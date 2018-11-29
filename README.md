@@ -1,10 +1,12 @@
 # QTVideoplayer
-Mediaplayer with few settings
+Mediaplayer with few settings<br />
+<br />
+Using this you can:<br />
+-> Dir a video<br />
+-> Run it<br />
+-> Volume Up(down) (using slider)<br />
+-> Play/Pause<br />
+-> Fastly rewind video  (using slider)<br />
+-> 0,5x, 1x and 2x fast modes<br />
+-> Savs the video frame by pressing "U" key (please, specify directory in code)<br />
 
-Using this you cans:
--> Dir a video
--> Run it
--> Volume Up(down) (using slider)
--> Play/Pause
--> Fastly rewind video  (using slider)
--> 0,5x, 1x and 2x fast modes
